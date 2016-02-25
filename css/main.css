@@ -37,6 +37,7 @@ header {
     width: 65%;
     margin: auto;
     padding: 5%;
+    box-sizing: border-box;
 }
 .titulo p {
     font-family: "Courgette", serif;
@@ -151,11 +152,17 @@ footer {
     }
 }
 @media screen and (max-width : 768px) {
-    .block {
-        width: 90%;
-    }
-    .titulo {
+     .w-esp {
         width: 70%;
+    }
+    .block {
+        width: 100%;
+    }
+    .aside {
+        display: none;
+    }
+    .pl-1, .plr-05, .pr-1 {
+        padding: 0;
     }
 }
 @media screen and (max-width: 600px) {
@@ -165,18 +172,12 @@ footer {
     .block {
         width: 100%;
     }
-    .pl-1, .plr-05, .pr-1 {
-        padding: 0;
-    }
+    
     .presentacion {
         padding: 5% 0;
     }
     .titulo {
         width: 85%;
-    /*    padding: 20px;*/
-    }
-    .aside {
-        display: none;
     }
 }
 
