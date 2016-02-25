@@ -1,0 +1,27 @@
+/*body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}*/
+
+.navbar {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.navbar-default {
+  background-color: transparent;
+}
+.nav .nav-divider {
+  height: 1.5rem;
+  margin: 16px;
+  overflow: hidden;
+  background-color: transparent;
+  border: 1px solid #979797;
+  }
+.navbar-brand {
+	padding: 0;
+}
+.logo-sentient {
+	height: 60px;
+	width: auto;
+	margin: auto;	
+}

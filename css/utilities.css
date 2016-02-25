@@ -1,0 +1,126 @@
+/* Font weight */
+.f-700 {
+	font-weight: 700;
+}
+.f-400 {
+	font-weight: 400;
+}
+
+/* Paddings */
+.pd-0{
+	padding: 0;
+}
+.pd-5 {
+	padding: 5%;
+}
+.pd-10 {
+	padding: 10%;
+}
+.pt-0 {
+	padding-top: 0%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pr-5{
+	padding-right: 5%;
+}
+.pl-1{
+	padding-left: 1%;
+}
+.plr-05{
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+}
+.pr-1 {
+	padding-right: 1%;
+}
+.pl-3 {
+	padding-left: 3%;
+}
+/*Margins*/
+.mg-0{
+	margin: 0;
+}
+
+.mr-10p {
+	margin-right: 10px;
+}
+.mg-30p {
+	margin-top: 30px;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 150%;
+}
+.lh-2 {
+	line-height: 175%;
+}
+.lh-3 {
+	line-height: 200%;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.text-justify {
+	text-align: justify;
+}
+.text-white{
+	color: white;
+}
+.text-orange {
+	color: #F7BA6A;
+}
+.text-gray{
+	color: #888;
+}
+.text-gray2{
+	color:#555;
+}
+.text-gray3{
+	color: #444;
+}
+.text-purple {
+	color: #2D2735;
+}
+.a-none-decoration, .a-none-decoration:hover, .a-none-decoration:focus {
+	text-decoration: none;
+}
+.bg-white {
+	background-color: white;
+}
+.bg-purple {
+	background-color: #2D2735;
+}
+.bg-dpurple {
+	background-color: #1C1821;
+}
+.bg-img-block {
+	background-size: cover;
+	background-repeat: no-repeat;
+/*	background-position: center;*/
+}
+
+.pull-left {
+	float: left;
+}
+.pull-right {
+	float: right;
+}
