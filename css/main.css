@@ -5,6 +5,9 @@
 .navbar {
     border: none;
     background-color: #1C1821;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 .logo img{
     width: 220px;
